@@ -1,4 +1,7 @@
 ---
+# Activate this widget? true/false
+active: False
+
 widget: hero
 headless: true
 weight: 10
@@ -26,5 +29,3 @@ advanced:
 
 **Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs.
 
-# Activate this widget? true/false
-active: False
