@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Shuang Wu # Website name
 baseurl: 'http://shuangwu222.netlify.app' # use the link you just created
-copyright: '© {2022} Shuang Wu' # Footer text, e.g. '© {year} Me'
+copyright: '©2022 Shuang Wu' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
