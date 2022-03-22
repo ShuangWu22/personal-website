@@ -1,7 +1,7 @@
 ---
 authors:
 - Chi-Hua Wang
-- admin
+- \bf admin
 - Yang Yu
 - Botao Hao
 - Guang Cheng

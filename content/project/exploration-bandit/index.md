@@ -6,6 +6,7 @@ image:
 summary: Residual Bootstrap Explorations for Online Decision Making.
 tags:
 - bandit algorithms
+- high dimensional statistics
 title: Exploration in Bandit Algorithms
 ---
 
