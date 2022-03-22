@@ -29,4 +29,3 @@ tags:
 title: Residual Bootstrap Exploration for Stochastic Linear Bandit
 url_pdf: https://arxiv.org/pdf/2202.11474.pdf
 ---
-
