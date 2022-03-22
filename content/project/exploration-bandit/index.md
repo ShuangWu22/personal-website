@@ -5,7 +5,7 @@ image:
   focal_point: Smart
 summary: Residual Bootstrap Explorations for Online Decision Making.
 tags:
-- Bandit Algorithms
+- bandit algorithms
 title: Exploration in Bandit Algorithms
 ---
 
