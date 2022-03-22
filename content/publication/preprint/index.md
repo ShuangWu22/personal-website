@@ -8,7 +8,7 @@ date: "2022-02-23T00:00:00Z"
 doi: ""
 featured: true
 projects:
-- iexploration-bandit
+- exploration-bandit
 publication: ""
 publication_short: ""
 publication_types:

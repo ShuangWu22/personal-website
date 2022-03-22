@@ -7,10 +7,10 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
-summary: An example of using the in-built project page.
+  url: https://twitter.com/ShuangW46380297
+summary: Residual Bootstrap Explorations for Online Decision Making.
 tags:
-- Deep Learning
+- Bandit Algorithms
 title: Exploration in Bandit Algorithms
 ---
 
