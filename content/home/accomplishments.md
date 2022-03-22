@@ -4,7 +4,7 @@
 widget: accomplishments
 
 # Activate this widget? true/false
-active: False
+active: true
 
 # This file represents a page section.
 headless: true
