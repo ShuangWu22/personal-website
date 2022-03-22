@@ -1,5 +1,5 @@
 ---
-title: "Shuang Wu (吴双)"
+title: "Shuang Wu"
 education:
   courses:
   - course: PhD in Statistics
