@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2022-02-23T00:00:00Z"
 external_link: https://arxiv.org/pdf/2202.11474.pdf
 doi: ""
 featured: false
@@ -11,9 +11,9 @@ publication: ""
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-02-23T00:00:00Z"
 tags:
-- Source Themes
+- Demo
 title: Residual Bootstrap Exploration for Stochastic Linear Bandit
 url_pdf: https://arxiv.org/pdf/2202.11474.pdf
 ---
