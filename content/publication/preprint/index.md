@@ -1,12 +1,14 @@
 ---
 authors:
 - admin
-- Chi-Hua, Wang
+- Chi-Hua Wang
+- Yuantong Li
+- Guang Cheng
 date: "2022-02-23T00:00:00Z"
 doi: ""
 featured: true
 projects:
-- internal-project
+- iexploration-bandit
 publication: ""
 publication_short: ""
 publication_types:
