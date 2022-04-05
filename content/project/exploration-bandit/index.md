@@ -7,6 +7,7 @@ summary:
 tags:
 - bandit algorithms
 - high dimensional statistics
+- nonparametric statistics
 title: Exploration in Bandit Algorithms
 ---
 

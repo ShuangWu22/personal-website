@@ -2,7 +2,7 @@
 title: "Shuang Wu"
 education:
   courses:
-  - course: PhD in Statistics
+  - course: Ph.D. in Statistics
     institution: University of California, Los Angeles
     year: 
   - course: MS in Biostatistics
@@ -14,9 +14,9 @@ education:
 email: "shuangwu222@ucla.edu"
 highlight_name: no
 interests:
-- Trustworthy Artificial intelligence
+- Trustworthy Machine Learning
+- Data-centric Machine Learning
 - Machine Learning on Graphs
-- Optimization
 - Bandit Algorithms
 organizations:
 - name: University of California, Los Angeles
@@ -42,9 +42,9 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/shuang-wu-6219aa132/
 superuser: true
-bio: My research interests include Trustworthy AI, ML on Graphs, Optimization, and Bandit Algorithms.
+bio: My research interests include Trustworthy ML, Data-centric ML, ML on Graphs and Bandit Algorithms.
 greeting: alzahawi::shilaan()
 ---
 
-I am a Ph.D. student in Statistics at [University of Caligornia, Los Angeles](http://statistics.ucla.edu/) after spending two years on graduate studies at [Purdue University](https://www.stat.purdue.edu/). I am fortunate to be advised by [Prof.Guang Cheng](http://www.stat.ucla.edu/~guangcheng/) and extremely happy to work with [Prof.Pan Li](https://sites.google.com/view/panli-purdue). My other collaborators include Yuantong Li, Chi-hua Wang and Mingxuan Zhang etc. Before becoming a doctoral student, I received a BS in statistics from [Sun Yat-sen University](http://math.sysu.edu.cn/) in 2017 and a MS in Biostatistics from [Columbia University](http://www.mailman.columbia.edu/academic-departments/biostatistics) in 2019. My general research interest is theory and practice of machine learning and my current research focuses on Trustworthy Artificial intelligence, Graph Machine Learning and Bandit Algorithms.
+I am a Ph.D. student in Statistics at [University of Caligornia, Los Angeles](http://statistics.ucla.edu/) after spending two years on graduate studies at [Purdue University](https://www.stat.purdue.edu/). I am fortunate to be advised by [Prof.Guang Cheng](http://www.stat.ucla.edu/~guangcheng/) and extremely happy to work with [Prof.Pan Li](https://sites.google.com/view/panli-purdue). My other collaborators include Yuantong Li, Chi-hua Wang and Mingxuan Zhang etc. Before becoming a doctoral student, I received a BS in statistics from [Sun Yat-sen University](http://math.sysu.edu.cn/) in 2017 and a MS in Biostatistics from [Columbia University](http://www.mailman.columbia.edu/academic-departments/biostatistics) in 2019. My general research interest is theory and practice of machine learning and my current research focuses on Trustworthy Artificial intelligence, Data Centric Machine Learning, Graph Machine Learning and Bandit Algorithms.
 
