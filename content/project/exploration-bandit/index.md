@@ -6,8 +6,8 @@ image:
 summary:
 tags:
 - bandit algorithms
-- high dimensional statistics
 - nonparametric statistics
+- uncertainty quantification
 title: Exploration in Bandit Algorithms
 ---
 
