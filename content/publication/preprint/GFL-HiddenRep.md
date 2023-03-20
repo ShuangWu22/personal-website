@@ -29,5 +29,5 @@ tags:
 - federated learning
 - optimization
 title: Graph Federated Learning with Hidden Representation Sharing
-url_pdf: '#'
+url_pdf: https://arxiv.org/pdf/2212.12158.pdf
 ---
